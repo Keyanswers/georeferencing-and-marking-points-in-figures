@@ -1,5 +1,5 @@
 ---
-title: "Georeferencing Raster Images in R 🗺️📡🌍"
+title: "Georeferencing Raster Images in R"
 author: "Juan Carlos Rubio Polania, PhD"
 date: "2024-02-18"
 ---
